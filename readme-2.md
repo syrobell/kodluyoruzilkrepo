@@ -1,0 +1,1 @@
+![Örnek Foto](img/ss.png "Örnek Foto")
